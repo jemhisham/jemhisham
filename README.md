@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jemhisham
+- 👋 Hi, I’m @Jameel Bukhari
 - 👀 I’m interested in Integration side and Data
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on projects
